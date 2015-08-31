@@ -9,5 +9,5 @@ Supports uploading PE or IDB.<br />
 4. Browse to "http://<yourip>:8888/upload"
 
 # Screenshots with putty.exe
-![Upload](/linuxgeek247/hexrays_server/screenshots/upload.png?raw=true)
-![Results](/linuxgeek247/hexrays_server/screenshots/result.png?raw=true)
+![Upload](/screenshots/upload.png?raw=true)
+![Results](/screenshots/result.png?raw=true)
