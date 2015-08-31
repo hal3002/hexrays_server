@@ -1,4 +1,4 @@
-# hexrays_server
+# Hexrays Decompiler Server
 Simple ruby/sinatra server for IDA/Hexrays.<br />
 Supports uploading PE or IDB.<br />
 
