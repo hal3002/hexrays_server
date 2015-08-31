@@ -9,7 +9,8 @@ Supports uploading PE or IDB.<br />
 4. Browse to "http://<yourip>:8888/upload"
 
 # Screenshots with putty.exe
-1. Uploading a file for analysis
+Uploading a file for analysis
 ![Upload](/screenshots/upload.png?raw=true)
-2. Viewing your results
+
+Viewing your results
 ![Results](/screenshots/result.png?raw=true)
